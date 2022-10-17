@@ -8,5 +8,3 @@ if [[ $input =~ $regex_for_number ]] ; then
 else
     bash output.sh $input
 fi
-
-
